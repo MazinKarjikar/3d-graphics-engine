@@ -1,4 +1,4 @@
-# 3D-Graphics-Engine
+# 3D Graphics Engine
 3D Graphics Engine created using Python.
 Just download the python file and run! 
 
